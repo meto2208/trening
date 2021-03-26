@@ -1,1 +1,3 @@
 Licence policy.
+
+Version 3.0
